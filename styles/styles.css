@@ -156,7 +156,7 @@ margin-top:-10px;
   .nav .nav-side a{
     padding: 5px;
     text-decoration: none;
-     color:inherit;
+   color:rgb(150,150,150);
   }
   .nav .nav-side button{
     padding: 10px 20px;
